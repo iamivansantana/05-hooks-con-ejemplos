@@ -1,6 +1,7 @@
 import React from "react";
 
 const Reduce = () => {
+
   const arreglo = [
     { nombre: "ivan", edad: 26 },
     { nombre: "omar", edad: 27 },
@@ -26,6 +27,7 @@ const Reduce = () => {
       <h1>Holis</h1>
     </>
   );
+  
 };
 
 export default Reduce;
